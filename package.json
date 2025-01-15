@@ -1,6 +1,6 @@
 {
-  "name": "express-xml-bodyparser",
-  "version": "0.3.0",
+  "name": "foot-express-xml-bodyparser",
+  "version": "0.3.1",
   "description": "Simple XML body parser connect/express middleware",
   "author": "Matthias Adler <macedigital@gmail.com> (http://matthiasadler.info/)",
   "contributors": [
@@ -33,7 +33,7 @@
     "url": "https://github.com/macedigital/express-xml-bodyparser/issues"
   },
   "dependencies": {
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.5"
   },
   "devDependencies": {
     "@types/express-xml-bodyparser": "^0.3.0",
